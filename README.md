@@ -50,7 +50,3 @@ After training, the model should achieve an accuracy of around **96%** on the te
 - Experiment with different architectures (CNNs, deeper networks).
 - Use data augmentation to improve generalization.
 - Fine-tune hyperparameters for better performance.
-
----
-
-This project is a great starting point for understanding deep learning and neural networks in image classification.
