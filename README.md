@@ -43,7 +43,7 @@ The MNIST dataset is automatically downloaded via TensorFlow/Keras or PyTorch's 
 
 ## Results
 
-After training, the model should achieve an accuracy of around **98%** on the test set.
+After training, the model should achieve an accuracy of around **96%** on the test set.
 
 ## Future Improvements
 
